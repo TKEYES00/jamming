@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+  font-family: lato;
+}
+
+body{
+  max-width: 1440px;
+  margin: 0 auto;
+  background-image: linear-gradient(#ffa500, #ffcd5f);
+  height: 100vh;
+}
+.title{
+  text-align: center;
+  font-size: 4rem;
+  padding-top: 40px;
+}
+
+.searchContainer{
+  text-align: center;
+}
